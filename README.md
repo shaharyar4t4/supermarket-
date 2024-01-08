@@ -1,5 +1,9 @@
 **System Requirement Specification (SRS)**
 
+**Introduction:**
+
+The Supermarket Management System aims to enhance operational efficiency by introducing a user-friendly interface developed with Figma and java Swing. It addresses key features, including secure user authentication, barcode-integrated inventory tracking, and streamlined sales management. The system incorporates constant parameters for secure database connections and prioritizes non-functional requirements such as optimal performance, scalability, and a user-friendly design. This solution seeks to overcome existing challenges, providing a reliable and efficient supermarket management platform.
+
 **Problem Statement:**
 
 The existing supermarket management system lacks efficiency and user-friendly interfaces, leading to operational challenges.
@@ -7,8 +11,7 @@ The existing supermarket management system lacks efficiency and user-friendly in
 **Main Features and Solutions:**
 
 **Sales Processing:**
-Feature: Efficiently process sales transactions.
-Solution: Develop a user-friendly interface using Figma 
+The proposed Supermarket Management System focuses on ensuring efficient and seamless transactions. The system will feature a user-friendly interface designed with Figma and java Swing, facilitating a smooth sales experience. This includes quick processing of transactions, generation of receipts, and real-time updates to the inventory database. The aim is to streamline the sales workflow, providing a fast and reliable mechanism for handling customer transactions while maintaining accurate and up-to-date inventory records.
 
 **Constants:**
 Database Connection Parameters: Define constants for database connection details to ensure secure and consistent access.
@@ -38,4 +41,6 @@ Requirement: Design the system to handle a growing number of products, customers
 Requirement: Develop an intuitive and user-friendly interface using Figma
 
 This Supermarket Management System aims to address current inefficiencies, providing a reliable, secure, and user-friendly solution for efficient supermarket operations.
+
+Youtube video link: https://youtu.be/RpxtRq6O23Y?si=FF2NmfA7AFFGLeJW
 
